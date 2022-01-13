@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ayudapp.me and zentinela
+- 🔭 I’m currently working at Globant
 - 📫 How to reach me: zeussapp@gmailcom
 
 <!--
