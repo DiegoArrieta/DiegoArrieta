@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at Globant
-- 📫 How to reach me: zeussapp@gmailcom
+- 📫 How to reach me: darrietacl@gmailcom
 
 <!--
 **DiegoArrieta/DiegoArrieta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
