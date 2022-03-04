@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Globant
+- 🔭 I’m currently working at Globant as Web UI Developer - React Native Ssr
 - 📫 How to reach me: darrietacl@gmailcom
 
 <!--
