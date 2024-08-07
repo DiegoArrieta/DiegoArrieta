@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Globant as UI Engineer
-- 📫 How to reach me: darrietacl@gmail.com
+- 🔭 I’m currently working at Globant as Software Engineer
+- 📫 How to reach me: diego.arrieta.dev@gmail.com
 
 <!--
 **DiegoArrieta/DiegoArrieta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
