@@ -3,6 +3,8 @@
 - 🔭 I’m currently working at Globant as Software Engineer
 - 📫 How to reach me: diego.arrieta.dev@gmail.com
 
+
+![](https://komarev.com/ghpvc/?username=DiegoArrieta)
 <!--
 **DiegoArrieta/DiegoArrieta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
