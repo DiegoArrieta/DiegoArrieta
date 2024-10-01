@@ -92,8 +92,8 @@
   </tr>
    <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Redis" />
-      <br>Ubuntu
+        <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="raspberrypi" />
+      <br>RaspberryPI
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
@@ -104,28 +104,28 @@
       <br>Linux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="dart" />
-      <br>PHP
+        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="rabbitmq" />
+      <br>RabbitMQ
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="dart" />
-      <br>NPM
+        <img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="dynamodb" />
+      <br>DynamoDB
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
       <br>Mongodb
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="dart" />
-      <br>Materialui	
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
+      <br>Firebase	
     </td>
     <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
-      <br>Docusaurus
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="flask" />
+      <br>Flask
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="dart" />
-      <br>Express	
+        <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="pycharm" />
+      <br>Pycharm	
     </td>
   </tr>
  <tr>
