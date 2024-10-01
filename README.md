@@ -9,9 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoArrieta&hide_progress=true)
 
 
-## My favorite tools and technologies ⚙️
-
-> Tools and technologies that I have worked with and am interested in
+## Dev Tools & Technologies and tools that I use daily
 
 <table>
   <tr>
@@ -88,7 +86,7 @@
       <br>PostgreSQL
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="ASP.NET Core" />
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="ASP.NET Core" />
       <br>Wordpress
     </td>
   </tr>
